@@ -1,6 +1,6 @@
 ### Hi, I'm Gina!
-👩🏿‍💻 My eyes light up whenever I create a new feature, aspiring UX engineer
-🚀 Currently learning React and TypeScript
+👩🏿‍💻 My eyes light up whenever I create a new feature, aspiring UX engineer  
+🚀 Currently learning React and TypeScript  
 ⭐ Aiming to be a bridge between engineering and design
 
 
