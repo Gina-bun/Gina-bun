@@ -1,7 +1,7 @@
 ### Hi, I'm Gina!
-👩🏿‍💻 Front-end developer with a never ending curiousity in the tech space  
-🚀 Currently leveling up by building and taking initiative  
-⭐ One step closer each day
+👩🏿‍💻 My eyes light up whenever I create a new feature, aspiring UX engineer
+🚀 Currently learning React and TypeScript
+⭐ Aiming to be a bridge between engineering and design
 
 
 ### 🌐 Socials:
