@@ -1,8 +1,8 @@
 ### Hi, I'm Gina!
-🎨 I am a frontend and UX engineer
-👩🏿‍💻 My eyes light up whenever I create a new feature
-🚀 Currently learning React and TypeScript  
-⭐ Aiming to be a bridge between engineering and design
+🎨 I am a frontend and UX engineer  
+👩🏿‍💻 My eyes light up whenever I create a new feature  
+🚀 Currently learning React and TypeScript    
+⭐ Aiming to be a bridge between engineering and design  
 
 
 ### 🌐 Socials:
